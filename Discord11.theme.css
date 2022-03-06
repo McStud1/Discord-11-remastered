@@ -13,16 +13,16 @@
 */
 
 /* Theme Import [DON'T TOUCH] */
-@import url(https://raw.githubusercontent.com/McStud1/Discord-11-remastered/main/base.css);
+@import url(https://studland.site/discord-theme-stuff/discord-11-remastered/base.css);
 
 /* Colors *//* Change colors with Purple.css or Green.css ⬇️⬇️ */
-@import url(https://raw.githubusercontent.com/McStud1/Discord-11-remastered/main/colors/Blue.css);
+@import url(https://studland.site/discord-theme-stuff/discord-11-remastered/colors/Blue.css);
 
 /*--------------------------------------------------------------
 Message bubble styles [If you don't want any place a /* in both]
 ---------------------------------------------------------------*/
 /* Left side message bubble */
-@import url(https://raw.githubusercontent.com/McStud1/Discord-11-remastered/main/messagebubblenew.css);
+@import url(https://studland.site/discord-theme-stuff/discord-11-remastered/messagebubblenew.css);
 /*----------------------------------------------------
                 anything else down here
 ------------------------------------------------------*/
