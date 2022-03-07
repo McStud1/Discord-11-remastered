@@ -4,9 +4,7 @@
  * @author McStud#6198
  * @authorId 280859291886551040
  * @version 1
- * @website https:github.com/zuzumi-f
- * @source https://github.com/zuzumi-f/Discord-11/blob/main/base.css
- * edited by McStud#6198
+ * @website https:studland.site/
  * edited source: https://github.com/McStud1/Discord-11-remastered
 */
 
@@ -16,9 +14,6 @@
 /* Colors *//* Change colors with Purple.css or Green.css ⬇️⬇️ */
 @import url(https://studland.site/discord-theme-stuff/discord-11-remastered/colors/Blue.css);
 
-/*--------------------------------------------------------------
-Message bubble styles [If you don't want any place a /* in both]
----------------------------------------------------------------*/
 /* Left side message bubble */
 @import url(https://studland.site/discord-theme-stuff/discord-11-remastered/messagebubblenew.css);
 /*----------------------------------------------------
