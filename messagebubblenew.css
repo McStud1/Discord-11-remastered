@@ -19,10 +19,10 @@
 }
 
 #app-mount .message-2CShn3[data-is-author-self="true"] .contents-2MsGLg .messageContent-2t3eCI {
-    margin-right: auto;
+    margin-left: auto;
 }
 #app-mount .message-2CShn3[data-is-author-self="true"] a:not(.embed-hKpSrO .embedAuthorNameLink-1NK1y6) {
-    margin-right: auto;
+    margin-left: auto;
 }
 
 #app-mount .message-2CShn3[data-is-author-self="true"] .avatar-2e8lTP {
@@ -48,7 +48,7 @@
     width: fit-content;
 }
 #app-mount .message-2CShn3[data-is-author-self="true"] .container-2sjPya .imageWrapper-oMkQl4 {
-    margin-right: auto;
+    margin-left: auto;
 }
 
 #app-mount .contents-2MsGLg .messageContent-2t3eCI {
